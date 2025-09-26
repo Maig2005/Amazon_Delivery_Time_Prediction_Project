@@ -40,6 +40,7 @@ amazon-delivery-prediction-project/
 
 
 5. Getting Started
+   
     i. Prerequisites
         a.Clone the Repository:
 
@@ -75,7 +76,7 @@ amazon-delivery-prediction-project/
             The prediction interface will open in your web browser.
 
 
-6. Evaluation Metrics
+7. Evaluation Metrics
 Model performance is evaluated using the following regression metrics, as specified in the project scope:
 
     - Root Mean Squared Error (RMSE)
